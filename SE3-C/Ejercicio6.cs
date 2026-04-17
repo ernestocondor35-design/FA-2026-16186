@@ -10,6 +10,15 @@ namespace SE3_C
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ingrese los segundos: ");
+            int se = int.Parse(Console.ReadLine());
+
+            int horas = se / 3600;
+            int min = (se % 3600) / 60;
+            int resto = se % 60;
+
+            Console.WriteLine($"Horas: {horas}\nMinuto: {min}\nResto: {resto}");
+
 
         }
     }

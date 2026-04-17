@@ -11,6 +11,16 @@ namespace SE3_C
         static void Main(string[] args)
         {
 
+            Console.WriteLine("Ingresar un numero decimal: ");
+            double num = double.Parse(Console.ReadLine());
+
+            Console.WriteLine($"Raíz cuadrada: {Math.Sqrt(num)}");
+            Console.WriteLine($"Redondeando: {Math.Round(num, 0)}");
+            Console.WriteLine($"Al cubo: {Math.Pow(num,3)}");
+            Console.WriteLine($"Raiz cubica: {Math.Pow(num,1/3d)}");
+
+
+
         }
     }
 }
