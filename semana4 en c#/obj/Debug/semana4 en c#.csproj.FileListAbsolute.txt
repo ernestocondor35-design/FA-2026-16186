@@ -1,0 +1,8 @@
+C:\Users\UPN\Documents\F.A.C.2\FA-2026-16186\semana4 en c#\obj\Debug\semana4 en c#.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\F.A.C.2\FA-2026-16186\semana4 en c#\obj\Debug\semana4 en c#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\F.A.C.2\FA-2026-16186\semana4 en c#\bin\Debug\semana4 en c#.exe.config
+C:\Users\UPN\Documents\F.A.C.2\FA-2026-16186\semana4 en c#\bin\Debug\semana4 en c#.exe
+C:\Users\UPN\Documents\F.A.C.2\FA-2026-16186\semana4 en c#\bin\Debug\semana4 en c#.pdb
+C:\Users\UPN\Documents\F.A.C.2\FA-2026-16186\semana4 en c#\obj\Debug\semana4 en c#.exe
+C:\Users\UPN\Documents\F.A.C.2\FA-2026-16186\semana4 en c#\obj\Debug\semana4 en c#.pdb
+C:\Users\UPN\Documents\F.A.C.2\FA-2026-16186\semana4 en c#\obj\Debug\semana4 en c#.exe.config
